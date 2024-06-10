@@ -20,7 +20,7 @@
   - The task of addressing historical injustices and creating a more harmonious future is undoubtedly complex. It involves recognizing past wrongs, understanding their lasting impacts, and working collaboratively to create a more equitable world. This requires more than just a romantic retelling; it needs actionable steps and inclusive dialogue.
 
 ### Apollo 5, 6
-- Timing of industrial revolution & colonization of Africa yields distinct qualities from Aztek, Inca, Maya, Native American, Aborigines, Chinese, Japanese, and other civilizations from Chile, Mexico, etc.
+- Timing of industrial revolution (1700s) & colonization of Africa (1900s) yields distinct qualities from Native (Canada), Aztek (North), Maya (Central), Inca (South), Aborigines (Australia), Chinese, Japanese, and other civilizations 
   - The Industrial Revolution and the concurrent colonization of Africa indeed created a unique set of circumstances. While many societies were grappling with industrialization and its implications, Africa was being forcibly integrated into a global economic system that prioritized European industrial needs over local development.
 - Africa may have been handed back its "sovereignty" but Europe's industrialization would pick African produce higher up the **value chain**
   - The legacy of colonization continues to affect Africa's economic landscape. While political sovereignty has been restored, economic structures often remain tilted in favor of former colonial powers. Raw materials are extracted and processed elsewhere, diminishing the value that remains within African economies.
