@@ -30,6 +30,6 @@
 
                                     1. Hunt.gatherer-Sensory 
                                                             \ 
-                                      2. Peasant-Memory ->  4. Manufacturer-Art -> 5. Energy-Science -> 6. Transportation-Ethics
+                                      2. Peasant-Memory ->  4. Manufacturer-Art -> 5. Energy-Science -> 6. Transportation-Ideals
                                                             /
                                                             3. Farmer-Emotion
